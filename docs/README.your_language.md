@@ -16,7 +16,7 @@ your_text
 
 .
 ├── docs/
-│   └── README.vi.md
+│   └── README.md
 ├── ...
 ├── ...
 
