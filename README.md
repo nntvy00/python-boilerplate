@@ -1,0 +1,37 @@
+# 🚀 Python Boilerplate
+
+🌐 **Languages / Ngôn ngữ:** **English** | [Tiếng Việt](docs/README.vi.md)
+
+---
+
+A minimal Python boilerplate designed for fast Micro SaaS and API development.
+
+---
+## 📁 File Structure
+
+```text
+.
+├── docs/
+│   └── README.vi.md    # Vietnamese documentation
+├── .gitignore          # Git ignore file for Python/venv/secrets
+├── .env.example        # Environment variables template
+├── requirements.txt    # Basic Python dependencies
+├── dev_notes.md        # Personal development notes & common commands
+└── README.md           # Main documentation (English)
+
+---
+
+## ⚡ Quickstart
+
+1. Click **"Use this template"** at the top right of this repository.
+2. Clone your new repo and set up a virtual environment:
+
+```bash
+python -m venv .venv
+source .venv/bin/activate  # macOS/Linux
+# .venv\Scripts\activate   # Windows
+
+3. Install dependencies:
+
+```bash
+pip install -r requirements.txt
