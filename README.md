@@ -4,7 +4,7 @@
 
 ---
 
-A minimal Python boilerplate designed for fast Micro SaaS and API development. **Saves 10–15 minutes of setup time for every new project.**
+A minimal Python boilerplate designed for fast Micro SaaS and API development. **Saves 5-10 minutes of setup time for every new project.**
 
 ---
 ## 📁 File Structure
