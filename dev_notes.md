@@ -1,1 +1,1 @@
-<!-- writting the notes of development workflows, usual commands -->
+<!-- Personal development notes & common commands -->
