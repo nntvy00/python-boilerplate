@@ -4,7 +4,7 @@
 
 ---
 
-Bộ khung (boilerplate) Python tối giản dành cho việc khởi tạo nhanh các ứng dụng Micro SaaS và API.
+Bộ khung (boilerplate) Python tối giản dành cho việc khởi tạo nhanh các ứng dụng Micro SaaS và API. **Tiết kiệm 10-15 phút mỗi khi tạo project mới.**
 
 ---
 ## 📁 Cấu trúc thư mục
