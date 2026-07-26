@@ -1,7 +1,37 @@
-python-boilerplate/
-├── .gitignore          # Đã chặn .venv, .env, __pycache__...
-├── .env.example        # File mẫu cấu hình biến môi trường (KHÔNG push .env thật)
-├── dev_notes.md        # Ghi chú quy trình dev, lệnh hay dùng
-├── README.md           # Hướng dẫn nhanh cách setup project từ template này
-├── requirements.txt    # Các thư viện cơ bản (FastAPI, pydantic, pytest, v.v.)
-└── main.py             # Code Hello World / Healthcheck API đơn giản (tùy chọn)
+# 🚀 Python Boilerplate
+
+🌐 **Ngôn ngữ / Languages:** [English](../README.md) | **Tiếng Việt**
+
+---
+
+Bộ khung (boilerplate) Python tối giản dành cho việc khởi tạo nhanh các ứng dụng Micro SaaS và API.
+
+---
+## 📁 Cấu trúc thư mục
+
+```text
+.
+├── docs/
+│   └── README.vi.md    # Tài liệu hướng dẫn Tiếng Việt
+├── .gitignore          # Cấu hình bỏ qua file rác, môi trường ảo (.venv) và secret (.env)
+├── .env.example        # Mẫu khai báo các biến môi trường
+├── requirements.txt    # Danh sách các thư viện Python cơ bản
+├── dev_notes.md        # Ghi chú quy trình phát triển, các lệnh terminal hay dùng
+└── README.md           # Tài liệu hướng dẫn chính (Tiếng Anh)
+```
+
+### ⚡ Hướng dẫn sử dụng nhanh (Quickstart)
+1. Bấm vào nút "Use this template" ở góc trên bên phải của repository này.
+
+2. Clone repo mới về máy và khởi tạo môi trường ảo:
+```bash
+python -m venv .venv
+source .venv/bin/activate  # macOS/Linux
+# .venv\Scripts\activate   # Windows
+```
+
+3. Install dependencies:
+
+```bash
+pip install -r requirements.txt
+```
