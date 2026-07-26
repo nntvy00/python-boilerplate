@@ -23,8 +23,9 @@ A minimal Python boilerplate designed for fast Micro SaaS and API development. *
 
 ## ⚡ Quickstart
 
-1. Click **"Use this template"** at the top right of this repository.
-2. Clone your new repo and set up a virtual environment:
+1. Click **"Use this template"** at the top right of this repository and select **"Create a new repository"**..
+2. Enter your new repository name and click **"Create repository"**.
+3. Clone your new repo and set up a virtual environment:
 
 ```bash
 python -m venv .venv
@@ -32,7 +33,7 @@ source .venv/bin/activate  # macOS/Linux
 # .venv\Scripts\activate   # Windows
 ```
 
-3. Install dependencies:
+4. Install dependencies:
 
 ```bash
 pip install -r requirements.txt

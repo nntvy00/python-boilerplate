@@ -21,16 +21,16 @@ Bộ khung (boilerplate) Python tối giản dành cho việc khởi tạo nhanh
 ```
 
 ### ⚡ Hướng dẫn sử dụng nhanh (Quickstart)
-1. Bấm vào nút "Use this template" ở góc trên bên phải của repository này.
-
-2. Clone repo mới về máy và khởi tạo môi trường ảo:
+1. Bấm vào nút "Use this template" ở góc trên bên phải của repository này và chọn **"Create a new repository"**..
+2. Nhập tên cho repository mới của bạn và bấm **"Create repository"**.
+3. Clone repo mới về máy và khởi tạo môi trường ảo:
 ```bash
 python -m venv .venv
 source .venv/bin/activate  # macOS/Linux
 # .venv\Scripts\activate   # Windows
 ```
 
-3. Install dependencies:
+4. Install dependencies:
 
 ```bash
 pip install -r requirements.txt
