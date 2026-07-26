@@ -18,7 +18,7 @@ A minimal Python boilerplate designed for fast Micro SaaS and API development.
 ├── requirements.txt    # Basic Python dependencies
 ├── dev_notes.md        # Personal development notes & common commands
 └── README.md           # Main documentation (English)
-
+```
 ---
 
 ## ⚡ Quickstart
@@ -30,8 +30,10 @@ A minimal Python boilerplate designed for fast Micro SaaS and API development.
 python -m venv .venv
 source .venv/bin/activate  # macOS/Linux
 # .venv\Scripts\activate   # Windows
+```
 
 3. Install dependencies:
 
 ```bash
 pip install -r requirements.txt
+```
